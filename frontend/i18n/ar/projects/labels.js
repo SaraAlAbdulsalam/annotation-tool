@@ -1,0 +1,20 @@
+export default {
+  labels: 'الأوسمة',
+  shortkey: 'الاختصار',
+  color: 'اللون',
+  createLabel: 'أنشء وسماً',
+  importLabels: 'استيراد الأوسمة',
+  exportLabels: 'تصدير الأوسمة',
+  labelName: 'اسم الوسم',
+  labelMessage: 'فضلا اختر اسماً للوسم',
+  createLink: 'إنشء رابط',
+  linkName: 'اسم الرابط',
+  linkMessage: 'فضلا اختر اسم للرابط',
+  key: 'المفتاح',
+  deleteLabel: 'احذف الوسم',
+  deleteMessage: 'هل أنت متأكد من حذف هذا الوسم من المشروع؟',
+  importTitle: 'حدث الوسم',
+  importMessage1: 'أمثلة على الامتدادات',
+  importMessage2: 'اختر الملف',
+  filePlaceholder: 'الملف المدخل'
+}

@@ -1,0 +1,22 @@
+export default {
+  dataset: 'البيانات',
+  actions: 'الإجراءات',
+  importDataset: 'استيراد البيانات',
+  exportDataset: 'تصدير البيانات',
+  text: 'النص',
+  metadata: 'Metadata',
+  action: 'الإجراء',
+  annotate: 'التوسيم',
+  importDataTitle: 'استيراد البيانات',
+  importDataMessage1: 'حدد امتداد الملف',
+  importDataMessage2: 'حدد الملف',
+  importDataPlaceholder: 'ادخل الملف',
+  exportDataTitle: 'تصدير البيانات',
+  exportDataMessage: 'حدد امتداد الملف',
+  exportDataMessage2: 'حدد اسم الملف',
+  deleteDocumentsTitle: 'احذف المستند',
+  deleteDocumentsMessage: 'هل أنت متأكد من أنك ترغب في حذف {number} أشياء من المشروع',
+  deleteBulkDocumentsTitle: 'حذف جميع المستندات',
+  deleteBulkDocumentsMessage: 'هل أنت متأكد من حذف جميع المستندات من هذا المشروع',
+  pageText: '{0}-{1} من {2}'
+}
